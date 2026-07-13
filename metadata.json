@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Export Dashboard",
+  "description": "An interactive TradingView charting dashboard with custom data exports, asset selectors, export format options (CSV, JSON, TSV), and a clipboard data manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
